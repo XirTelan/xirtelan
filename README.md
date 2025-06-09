@@ -28,6 +28,17 @@
 </details>
 
 <details>
+<summary><b>Frontend Apps </b></summary>
+
+### TimeConvert
+
+-  A web app that allows you to easily convert selected times between time zones (e.g., from UTC−6 to PDT+5) or by location (e.g., 11:00 AM in Los Angeles to the equivalent time in Tokyo).
+-  Tech:  React(TS), Sass, Webpack, zustand
+-  [Repository](https://github.com/XirTelan/time-convert)
+
+</details>
+
+<details>
 <summary><b>Fullstack Apps </b></summary>
 
 ### BacklogsHub
